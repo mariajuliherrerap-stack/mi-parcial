@@ -1,0 +1,5 @@
+id_miembro,email,peso_kg,nombre,estado
+1,maju@correo.com,60.5,Maria Juliana Herrera,Activo
+2,no_registrado@fitlife.com,55.0,Mariana Carmona,Inactivo
+3,aperez@gym.com,0.0,Andres Perez,Activo
+4,luisa@gym.com,62.0,Luisa Gomez,Activo

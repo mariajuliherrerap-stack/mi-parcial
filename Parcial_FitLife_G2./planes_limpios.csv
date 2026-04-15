@@ -1,0 +1,4 @@
+id_plan,mensualidad,id_entrenador,nombre_plan,beneficio
+101,120000,10,Plan VIP,Acceso Total
+102,80000,10,Plan Basico,Solo Mañanas
+103,95000,11,Plan Musculacion,Pesas
